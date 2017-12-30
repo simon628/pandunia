@@ -1676,7 +1676,7 @@ vanilla   : wanila
 vase (flower pot)   : hua bin  
 vegetable   : sabze  
 veranda (porch)   : beranda  
-victim of killing (also: martyr)   : martur  
+victim of killing (also: martyr)   : martat  
 video   : wideo  
 Vietnam   : viet  
 view (vision)   : wide  
